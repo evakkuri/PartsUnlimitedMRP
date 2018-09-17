@@ -1,5 +1,5 @@
 import unittest
-from app.src.app import my_function
+from app import my_function
 
 
 class MyTest(unittest.TestCase):
